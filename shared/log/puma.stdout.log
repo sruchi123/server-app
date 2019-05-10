@@ -1,0 +1,341 @@
+=== puma startup: 2019-05-07 13:33:38 +0530 ===
+[12470] * Starting control server on unix:///tmp/puma-status-1557216218475-12470
+[12470] - Worker 0 (pid: 12477) booted, phase: 0
+[12470] - Worker 1 (pid: 12481) booted, phase: 0
+[12470] - Worker 2 (pid: 12485) booted, phase: 0
+[12470] - Worker 3 (pid: 12491) booted, phase: 0
+[12470] - Gracefully shutting down workers...
+[12470] === puma shutdown: 2019-05-07 13:34:48 +0530 ===
+[12470] - Goodbye!
+Exiting
+=== puma startup: 2019-05-07 13:35:58 +0530 ===
+[12741] * Starting control server on unix:///tmp/puma-status-1557216358535-12741
+[12741] - Worker 0 (pid: 12749) booted, phase: 0
+[12741] - Worker 1 (pid: 12753) booted, phase: 0
+[12741] - Worker 3 (pid: 12761) booted, phase: 0
+[12741] - Worker 2 (pid: 12757) booted, phase: 0
+[12741] - Gracefully shutting down workers...
+[12741] === puma shutdown: 2019-05-07 13:36:14 +0530 ===
+[12741] - Goodbye!
+Exiting
+=== puma startup: 2019-05-07 13:44:25 +0530 ===
+[13532] * Starting control server on unix:///tmp/puma-status-1557216865224-13527
+[13532] - Worker 3 (pid: 13551) booted, phase: 0
+[13532] - Worker 1 (pid: 13543) booted, phase: 0
+[13532] - Worker 0 (pid: 13539) booted, phase: 0
+[13532] - Worker 2 (pid: 13547) booted, phase: 0
+=== puma startup: 2019-05-07 13:45:01 +0530 ===
+[13643] * Starting control server on unix:///tmp/puma-status-1557216901051-13643
+[13643] - Worker 0 (pid: 13651) booted, phase: 0
+[13643] - Worker 1 (pid: 13655) booted, phase: 0
+[13643] - Worker 3 (pid: 13664) booted, phase: 0
+[13643] - Worker 2 (pid: 13659) booted, phase: 0
+[13643] - Gracefully shutting down workers...
+[13643] === puma shutdown: 2019-05-07 13:45:24 +0530 ===
+[13643] - Goodbye!
+Exiting
+=== puma startup: 2019-05-07 13:46:29 +0530 ===
+[13819] * Starting control server on unix:///tmp/puma-status-1557216989357-13819
+[13819] - Worker 1 (pid: 13831) booted, phase: 0
+[13819] - Worker 0 (pid: 13827) booted, phase: 0
+[13819] - Worker 2 (pid: 13835) booted, phase: 0
+[13819] - Worker 3 (pid: 13841) booted, phase: 0
+[13819] - Gracefully shutting down workers...
+[13819] === puma shutdown: 2019-05-07 13:47:32 +0530 ===
+[13819] - Goodbye!
+Exiting
+=== puma startup: 2019-05-07 14:04:17 +0530 ===
+[14244] * Starting control server on unix:///tmp/puma-status-1557218057269-14244
+[14244] - Worker 0 (pid: 14253) booted, phase: 0
+[14244] - Worker 1 (pid: 14257) booted, phase: 0
+[14244] - Worker 2 (pid: 14261) booted, phase: 0
+[14244] - Worker 3 (pid: 14267) booted, phase: 0
+[14244] - Gracefully shutting down workers...
+[14244] === puma shutdown: 2019-05-07 14:04:34 +0530 ===
+[14244] - Goodbye!
+Exiting
+=== puma startup: 2019-05-07 14:07:38 +0530 ===
+[14501] * Starting control server on unix:///tmp/puma-status-1557218258328-14501
+[14501] - Worker 0 (pid: 14508) booted, phase: 0
+[14501] - Worker 1 (pid: 14512) booted, phase: 0
+[14501] - Worker 2 (pid: 14516) booted, phase: 0
+[14501] - Worker 3 (pid: 14521) booted, phase: 0
+[14501] - Gracefully shutting down workers...
+[14501] === puma shutdown: 2019-05-07 14:08:54 +0530 ===
+[14501] - Goodbye!
+Exiting
+[13551] ! Detected parent died, dying
+[13539] ! Detected parent died, dying
+[13543] ! Detected parent died, dying
+[13547] ! Detected parent died, dying
+=== puma startup: 2019-05-07 14:10:42 +0530 ===
+[14755] * Starting control server on unix:///tmp/puma-status-1557218442282-14755
+[14755] - Worker 0 (pid: 14762) booted, phase: 0
+[14755] - Worker 1 (pid: 14766) booted, phase: 0
+[14755] - Worker 2 (pid: 14770) booted, phase: 0
+[14755] - Worker 3 (pid: 14772) booted, phase: 0
+[14755] - Gracefully shutting down workers...
+[14755] === puma shutdown: 2019-05-07 14:11:34 +0530 ===
+[14755] - Goodbye!
+Exiting
+=== puma startup: 2019-05-07 14:11:42 +0530 ===
+[14910] * Starting control server on unix:///tmp/puma-status-1557218502776-14910
+[14910] - Worker 0 (pid: 14923) booted, phase: 0
+[14910] - Worker 1 (pid: 14927) booted, phase: 0
+[14910] - Worker 2 (pid: 14932) booted, phase: 0
+[14910] - Worker 3 (pid: 14936) booted, phase: 0
+[14910] - Gracefully shutting down workers...
+[14910] === puma shutdown: 2019-05-07 14:13:50 +0530 ===
+[14910] - Goodbye!
+Exiting
+=== puma startup: 2019-05-07 14:13:58 +0530 ===
+[15034] * Starting control server on unix:///tmp/puma-status-1557218638067-15029
+[15034] - Worker 1 (pid: 15045) booted, phase: 0
+[15034] - Worker 3 (pid: 15057) booted, phase: 0
+[15034] - Worker 2 (pid: 15051) booted, phase: 0
+[15034] - Worker 0 (pid: 15041) booted, phase: 0
+=== puma startup: 2019-05-07 15:09:06 +0530 ===
+[20998] * Starting control server on unix:///tmp/puma-status-1557221946679-20998
+[20998] - Worker 3 (pid: 21016) booted, phase: 0
+[20998] - Worker 2 (pid: 21013) booted, phase: 0
+[20998] - Worker 1 (pid: 21009) booted, phase: 0
+[20998] - Worker 0 (pid: 21005) booted, phase: 0
+[20998] - Gracefully shutting down workers...
+[20998] === puma shutdown: 2019-05-07 15:09:47 +0530 ===
+[20998] - Goodbye!
+=== puma startup: 2019-05-07 15:09:52 +0530 ===
+[21145] * Starting control server on unix:///tmp/puma-status-1557221992090-21139
+[21145] - Worker 0 (pid: 21152) booted, phase: 0
+[21145] - Worker 2 (pid: 21160) booted, phase: 0
+[21145] - Worker 3 (pid: 21164) booted, phase: 0
+[21145] - Worker 1 (pid: 21156) booted, phase: 0
+=== puma startup: 2019-05-07 15:10:45 +0530 ===
+[21229] * Starting control server on unix:///tmp/puma-status-1557222045565-21223
+[21229] - Worker 2 (pid: 21244) booted, phase: 0
+[21229] - Worker 1 (pid: 21240) booted, phase: 0
+[21229] - Worker 3 (pid: 21246) booted, phase: 0
+[21229] - Worker 0 (pid: 21236) booted, phase: 0
+[21246] ! Detected parent died, dying
+[21236] ! Detected parent died, dying
+[21244] ! Detected parent died, dying
+[21240] ! Detected parent died, dying
+=== puma startup: 2019-05-07 15:39:08 +0530 ===
+[22351] * Starting control server on unix:///tmp/puma-status-1557223748913-22351
+[22351] - Gracefully shutting down workers...
+[22374] Early termination of worker
+[22364] Early termination of worker
+[22368] Early termination of worker
+[22372] Early termination of worker
+[22351] === puma shutdown: 2019-05-07 15:39:09 +0530 ===
+[22351] - Goodbye!
+Exiting
+=== puma startup: 2019-05-07 15:39:27 +0530 ===
+[22440] * Starting control server on unix:///tmp/puma-status-1557223767984-22434
+[22440] - Worker 3 (pid: 22459) booted, phase: 0
+[22440] - Worker 0 (pid: 22447) booted, phase: 0
+[22440] - Worker 1 (pid: 22451) booted, phase: 0
+[22440] - Worker 2 (pid: 22455) booted, phase: 0
+[22447] ! Detected parent died, dying
+[22455] ! Detected parent died, dying
+[22459] ! Detected parent died, dying
+[22451] ! Detected parent died, dying
+=== puma startup: 2019-05-07 15:44:02 +0530 ===
+[22783] * Starting control server on unix:///tmp/puma-status-1557224042909-22778
+[22783] - Worker 1 (pid: 22794) booted, phase: 0
+[22783] - Worker 0 (pid: 22790) booted, phase: 0
+[22783] - Worker 2 (pid: 22798) booted, phase: 0
+[22783] - Worker 3 (pid: 22802) booted, phase: 0
+=== puma startup: 2019-05-07 15:46:36 +0530 ===
+[22933] * Starting control server on unix:///tmp/puma-status-1557224196567-22927
+[22933] - Worker 1 (pid: 22944) booted, phase: 0
+[22933] - Worker 3 (pid: 22952) booted, phase: 0
+[22933] - Worker 2 (pid: 22948) booted, phase: 0
+[22933] - Worker 0 (pid: 22940) booted, phase: 0
+[22940] ! Detected parent died, dying
+[22948] ! Detected parent died, dying
+[22952] ! Detected parent died, dying
+[22944] ! Detected parent died, dying
+=== puma startup: 2019-05-07 15:51:09 +0530 ===
+[23348] * Starting control server on unix:///tmp/puma-status-1557224469109-23342
+[23348] - Worker 3 (pid: 23366) booted, phase: 0
+[23348] - Worker 2 (pid: 23363) booted, phase: 0
+[23348] - Worker 0 (pid: 23355) booted, phase: 0
+[23348] - Worker 1 (pid: 23359) booted, phase: 0
+[23359] ! Detected parent died, dying
+[23355] ! Detected parent died, dying
+[23363] ! Detected parent died, dying
+[23366] ! Detected parent died, dying
+=== puma startup: 2019-05-07 15:54:36 +0530 ===
+[23576] * Starting control server on unix:///tmp/puma-status-1557224676163-23570
+[23576] - Worker 2 (pid: 23589) booted, phase: 0
+[23576] - Worker 1 (pid: 23587) booted, phase: 0
+[23576] - Worker 0 (pid: 23583) booted, phase: 0
+[23576] - Worker 3 (pid: 23595) booted, phase: 0
+[23587] ! Detected parent died, dying
+[23595] ! Detected parent died, dying
+[23589] ! Detected parent died, dying
+[23583] ! Detected parent died, dying
+=== puma startup: 2019-05-07 16:18:32 +0530 ===
+[25337] * Starting control server on unix:///tmp/puma-status-1557226112075-25331
+[25337] - Worker 1 (pid: 25348) booted, phase: 0
+[25337] - Worker 2 (pid: 25352) booted, phase: 0
+[25337] - Worker 0 (pid: 25344) booted, phase: 0
+[25337] - Worker 3 (pid: 25354) booted, phase: 0
+[25344] ! Detected parent died, dying
+[25348] ! Detected parent died, dying
+[25352] ! Detected parent died, dying
+[25354] ! Detected parent died, dying
+=== puma startup: 2019-05-07 16:21:15 +0530 ===
+[25579] * Starting control server on unix:///tmp/puma-status-1557226275152-25573
+[25579] - Worker 2 (pid: 25594) booted, phase: 0
+[25579] - Worker 1 (pid: 25590) booted, phase: 0
+[25579] - Worker 0 (pid: 25586) booted, phase: 0
+[25579] - Worker 3 (pid: 25598) booted, phase: 0
+=== puma startup: 2019-05-07 17:30:43 +0530 ===
+[28877] * Starting control server on unix:///tmp/puma-status-1557230443618-28871
+[28877] - Worker 2 (pid: 28892) booted, phase: 0
+[28877] - Worker 0 (pid: 28884) booted, phase: 0
+[28877] - Worker 1 (pid: 28888) booted, phase: 0
+[28877] - Worker 3 (pid: 28896) booted, phase: 0
+=== puma startup: 2019-05-07 17:47:08 +0530 ===
+[29674] * Starting control server on unix:///tmp/puma-status-1557231428600-29667
+[29674] - Worker 1 (pid: 29685) booted, phase: 0
+[29674] - Worker 3 (pid: 29693) booted, phase: 0
+[29674] - Worker 0 (pid: 29681) booted, phase: 0
+[29674] - Worker 2 (pid: 29689) booted, phase: 0
+[29685] ! Detected parent died, dying
+[29689] ! Detected parent died, dying
+[29693] ! Detected parent died, dying
+[29681] ! Detected parent died, dying
+=== puma startup: 2019-05-07 18:19:14 +0530 ===
+[30908] * Starting control server on unix:///tmp/puma-status-1557233354277-30902
+[30908] - Worker 2 (pid: 30923) booted, phase: 0
+[30908] - Worker 1 (pid: 30919) booted, phase: 0
+[30908] - Worker 3 (pid: 30927) booted, phase: 0
+[30908] - Worker 0 (pid: 30915) booted, phase: 0
+                                                                                                                                                                                                                                                                                            === puma startup: 2019-05-10 18:27:19 +0530 ===
+[21719] * Starting control server on unix:///tmp/puma-status-1557493039956-21719
+[21719] - Gracefully shutting down workers...
+[27036] Early termination of worker
+[27040] Early termination of worker
+[27044] Early termination of worker
+[27032] Early termination of worker
+[21719] === puma shutdown: 2019-05-10 18:28:06 +0530 ===
+[21719] - Goodbye!
+Exiting
+=== puma startup: 2019-05-10 18:32:46 +0530 ===
+[27462] * Starting control server on unix:///tmp/puma-status-1557493366126-27462
+[27462] - Worker 1 (pid: 27473) booted, phase: 0
+[27462] - Worker 2 (pid: 27475) booted, phase: 0
+[27462] - Worker 3 (pid: 27484) booted, phase: 0
+[27462] - Worker 0 (pid: 27469) booted, phase: 0
+[27462] - Gracefully shutting down workers...
+[27462] === puma shutdown: 2019-05-10 18:33:03 +0530 ===
+[27462] - Goodbye!
+Exiting
+=== puma startup: 2019-05-10 18:33:18 +0530 ===
+[27565] * Starting control server on unix:///tmp/puma-status-1557493398692-27559
+[27565] - Worker 2 (pid: 27580) booted, phase: 0
+[27565] - Worker 1 (pid: 27576) booted, phase: 0
+[27565] - Worker 0 (pid: 27572) booted, phase: 0
+[27565] - Worker 3 (pid: 27584) booted, phase: 0
+[27576] ! Detected parent died, dying
+[27572] ! Detected parent died, dying
+[27580] ! Detected parent died, dying
+[27584] ! Detected parent died, dying
+=== puma startup: 2019-05-10 18:34:29 +0530 ===
+[27755] * Starting control server on unix:///tmp/puma-status-1557493469884-27750
+[27755] - Worker 1 (pid: 27766) booted, phase: 0
+[27755] - Worker 0 (pid: 27762) booted, phase: 0
+[27755] - Worker 2 (pid: 27768) booted, phase: 0
+[27755] - Worker 3 (pid: 27770) booted, phase: 0
+[27770] ! Detected parent died, dying
+[27768] ! Detected parent died, dying
+[27766] ! Detected parent died, dying
+[27762] ! Detected parent died, dying
+=== puma startup: 2019-05-10 18:38:10 +0530 ===
+[28001] * Starting control server on unix:///tmp/puma-status-1557493690638-27995
+[28001] - Worker 3 (pid: 28016) booted, phase: 0
+[28001] - Worker 2 (pid: 28014) booted, phase: 0
+[28001] - Worker 1 (pid: 28012) booted, phase: 0
+[28001] - Worker 0 (pid: 28008) booted, phase: 0
+[28016] ! Detected parent died, dying
+[28012] ! Detected parent died, dying
+[28014] ! Detected parent died, dying
+[28008] ! Detected parent died, dying
+=== puma startup: 2019-05-10 18:40:40 +0530 ===
+[28259] * Starting control server on unix:///tmp/puma-status-1557493840805-28252
+[28259] - Worker 0 (pid: 28266) booted, phase: 0
+[28259] - Worker 2 (pid: 28274) booted, phase: 0
+[28259] - Worker 3 (pid: 28278) booted, phase: 0
+[28259] - Worker 1 (pid: 28270) booted, phase: 0
+[28266] ! Detected parent died, dying
+[28270] ! Detected parent died, dying
+[28274] ! Detected parent died, dying
+[28278] ! Detected parent died, dying
+=== puma startup: 2019-05-10 18:42:08 +0530 ===
+[28461] * Starting control server on unix:///tmp/puma-status-1557493928341-28454
+[28461] - Worker 3 (pid: 28480) booted, phase: 0
+[28461] - Worker 0 (pid: 28468) booted, phase: 0
+[28461] - Worker 2 (pid: 28476) booted, phase: 0
+[28461] - Worker 1 (pid: 28472) booted, phase: 0
+[28468] ! Detected parent died, dying
+[28476] ! Detected parent died, dying
+[28472] ! Detected parent died, dying
+[28480] ! Detected parent died, dying
+=== puma startup: 2019-05-10 18:44:17 +0530 ===
+[28711] * Starting control server on unix:///tmp/puma-status-1557494057049-28706
+[28711] - Worker 2 (pid: 28726) booted, phase: 0
+[28711] - Worker 0 (pid: 28718) booted, phase: 0
+[28711] - Worker 1 (pid: 28722) booted, phase: 0
+[28711] - Worker 3 (pid: 28728) booted, phase: 0
+[28718] ! Detected parent died, dying
+[28726] ! Detected parent died, dying
+[28722] ! Detected parent died, dying
+[28728] ! Detected parent died, dying
+=== puma startup: 2019-05-10 18:47:17 +0530 ===
+[29039] * Starting control server on unix:///tmp/puma-status-1557494237341-29034
+[29039] - Worker 3 (pid: 29057) booted, phase: 0
+[29039] - Worker 1 (pid: 29050) booted, phase: 0
+[29039] - Worker 0 (pid: 29046) booted, phase: 0
+[29039] - Worker 2 (pid: 29054) booted, phase: 0
+[29050] ! Detected parent died, dying
+[29054] ! Detected parent died, dying
+[29046] ! Detected parent died, dying
+[29057] ! Detected parent died, dying
+=== puma startup: 2019-05-10 18:49:43 +0530 ===
+[29360] * Starting control server on unix:///tmp/puma-status-1557494383315-29354
+[29360] - Worker 2 (pid: 29375) booted, phase: 0
+[29360] - Worker 0 (pid: 29367) booted, phase: 0
+[29360] - Worker 1 (pid: 29371) booted, phase: 0
+[29360] - Worker 3 (pid: 29379) booted, phase: 0
+[29379] ! Detected parent died, dying
+[29375] ! Detected parent died, dying
+[29371] ! Detected parent died, dying
+[29367] ! Detected parent died, dying
+=== puma startup: 2019-05-10 18:51:22 +0530 ===
+[29566] * Starting control server on unix:///tmp/puma-status-1557494482234-29561
+[29566] - Worker 3 (pid: 29585) booted, phase: 0
+[29566] - Worker 0 (pid: 29573) booted, phase: 0
+[29566] - Worker 1 (pid: 29577) booted, phase: 0
+[29566] - Worker 2 (pid: 29581) booted, phase: 0
+[29577] ! Detected parent died, dying
+[29585] ! Detected parent died, dying
+[29581] ! Detected parent died, dying
+[29573] ! Detected parent died, dying
+=== puma startup: 2019-05-10 18:54:14 +0530 ===
+[29835] * Starting control server on unix:///tmp/puma-status-1557494654418-29829
+[29835] - Worker 2 (pid: 29850) booted, phase: 0
+[29835] - Worker 1 (pid: 29846) booted, phase: 0
+[29835] - Worker 0 (pid: 29842) booted, phase: 0
+[29835] - Worker 3 (pid: 29852) booted, phase: 0
+[29846] ! Detected parent died, dying
+[29850] ! Detected parent died, dying
+[29852] ! Detected parent died, dying
+[29842] ! Detected parent died, dying
+=== puma startup: 2019-05-10 18:55:20 +0530 ===
+[30016] * Starting control server on unix:///tmp/puma-status-1557494720996-30010
+[30016] - Worker 2 (pid: 30031) booted, phase: 0
+[30016] - Worker 3 (pid: 30034) booted, phase: 0
+[30016] - Worker 0 (pid: 30023) booted, phase: 0
+[30016] - Worker 1 (pid: 30027) booted, phase: 0
